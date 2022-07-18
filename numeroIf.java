@@ -5,7 +5,7 @@ public class numeroIf {
      * positivo, negativo, o 0.
      * Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
      */
-    int numeroIf = 6;
+    int numeroIf = 0;
 
     if (numeroIf > 0) {
       System.out.println("Es un número POSITIVO");
